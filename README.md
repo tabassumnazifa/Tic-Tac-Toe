@@ -43,7 +43,8 @@ A simple and interactive **Tic Tac Toe** game made with **C++**, utilizing **2D 
 
  ## Output Screenshot for better understanding:
  ### Front Page
-  [!image alt](https://github.com/tabassumnazifa/Tic-Tac-Toe/blob/main/first.png?raw=true)
+  ![image alt](https://github.com/tabassumnazifa/Tic-Tac-Toe/blob/main/first.png?raw=true)
 ### Game
+![image alt](https://github.com/tabassumnazifa/Tic-Tac-Toe/blob/main/result%201.png?raw=true)
 
   
