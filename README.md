@@ -41,5 +41,9 @@ A simple and interactive **Tic Tac Toe** game made with **C++**, utilizing **2D 
 - First to get **3 in a row** (horizontally, vertically, or diagonally) wins.
 - If all spots are filled without a winner, the round is a tie.
 
-  ## Output Screenshot for better understanding:
+ ## Output Screenshot for better understanding:
+ ### Front Page
+  [!image alt](https://github.com/tabassumnazifa/Tic-Tac-Toe/blob/main/first.png?raw=true)
+### Game
+
   
